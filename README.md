@@ -35,6 +35,9 @@ $ npm run test:cov
 ```bash
 # create resources
 $ npx nest generate resource
+
+# create filter
+npx nest generate filter prisma-client-exception
 ```
 
 ## Prisma
